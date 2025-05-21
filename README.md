@@ -85,20 +85,6 @@ Throughout this project, I worked hands-on with, and gained a deep understanding
 
 ---
 
-## 📸 Dashboard & Report Screenshots
-
-Here are some glimpses into the dashboard and key analytical outputs from the workbook. These screenshots demonstrate the layout and key functionalities of the project.
-
-* **Sales Dashboard Overview:**
-    ![Sales Dashboard Overview](screenshots/sales_dashboard_overview.jpg)
-* **Product Performance Analysis:**
-    ![Product Performance Analysis](screenshots/product_performance.jpg)
-* **Customer Segmentation View:**
-    ![Customer Segmentation View](screenshots/customer_segmentation.jpg)
-* **Regional Sales Trends:**
-    ![Regional Sales Trends](screenshots/regional_trends.jpg)
-
-*(Note: Ensure your `.jpg` files are in the `screenshots/` folder and names match exactly.)*
 
 ## 📚 Data Source & Methodology
 
